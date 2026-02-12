@@ -1,0 +1,9 @@
+train: D:/rzf/deeplearning2/CAF-YOLO/dataset/train.txt
+val: D:/rzf/deeplearning2/CAF-YOLO/dataset/val.txt
+test: D:/rzf/deeplearning2/CAF-YOLO/dataset/test.txt
+
+# number of classes
+nc: 3
+
+# class names
+names: ['WBC', 'RBC', 'Platelets']
